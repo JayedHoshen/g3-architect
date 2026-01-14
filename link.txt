@@ -1,0 +1,6 @@
+article: https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/css-playgrounds-c0ca7a2a66ac
+
+
+github: https://github.com/ProgrammingHero1/g3-architects-resources
+
+figma: https://www.figma.com/design/k9WGpg3zsb5uts10DdLAi1/g3-architects?node-id=0-1&p=f&t=EsIOpE4ptR9BFdbN-0
